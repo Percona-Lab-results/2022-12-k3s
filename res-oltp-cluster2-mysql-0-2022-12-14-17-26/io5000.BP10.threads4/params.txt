@@ -1,0 +1,7 @@
+server: ps8
+buffer_pool: 10
+randtype: uniform
+io_capacity: 5000
+threads: 4
+storage: NVMe
+host: cluster2-mysql-0
